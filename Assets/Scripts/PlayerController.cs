@@ -2,7 +2,7 @@ using UnityEngine;
 
 /// <summary>
 /// 自機移動スクリプト（旧 InputManager 利用）
-— 最小実装なので後で Input System 移行も可
+/// *最小実装なので後で Input System 移行も可
 /// </summary>
 [RequireComponent(typeof(SpriteRenderer))]
 public class PlayerController : MonoBehaviour
